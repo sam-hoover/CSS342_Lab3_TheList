@@ -1,0 +1,17 @@
+Penguin 19
+Eagle 109
+Swallow 4
+Duck 21
+Hawk 44
+Buzzard 35
+Harrier 67
+Kites 13
+Vulture 23
+Osprey 97
+Falcon 101
+Caracara 56
+Owl 11
+Canary 7
+Condor 81
+Parrot 2
+Crow 61
